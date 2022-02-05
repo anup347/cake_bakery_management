@@ -23,6 +23,13 @@ Laravel 8
 Tailwind css
 Meraki UI
 
+## Demo
+
+![image](https://user-images.githubusercontent.com/13825888/152629793-f56835be-a5cc-4cbb-a279-567f5c5e7ee7.png)
+
+![image](https://user-images.githubusercontent.com/13825888/152629818-02dea5e5-8213-4ff0-89cd-6efc40422b67.png)
+
+
 ## License
 
 This is licensed under the [MIT license]
